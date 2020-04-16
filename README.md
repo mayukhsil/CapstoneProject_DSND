@@ -59,7 +59,7 @@ git clone https://github.com/buchan123/Disaster-Response-Pipeline.git
 <a name="authors"></a>
 ## Authors
 
-* [Siddhant Sarkar](https://github.com/buchan123)
+* [Mayukh Sil](https://github.com/mayukhsil)
 
 <a name="license"></a>
 ## License
