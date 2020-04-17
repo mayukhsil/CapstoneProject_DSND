@@ -39,7 +39,7 @@ The Project is divided in the following Sections:
 ### Installing
 Clone this GIT repository:
 ```
-git clone https://github.com/mayukhsil/CapstoneProject_DSND.git
+git clone https://github.com/buchan123/Disaster-Response-Pipeline.git
 ```
 <a name="executing"></a>
 ### Executing Program:
@@ -59,7 +59,7 @@ git clone https://github.com/mayukhsil/CapstoneProject_DSND.git
 <a name="authors"></a>
 ## Authors
 
-* [Mayukh Sil](https://github.com/mayukhsil)
+* [Siddhant Sarkar](https://github.com/buchan123)
 
 <a name="license"></a>
 ## License
