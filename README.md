@@ -86,5 +86,5 @@ git clone https://github.com/mayukhsil/CapstoneProject_DSND.git
 
 ![Main Page](screenshots/main_page.png)
 
-# Deployed at
-https://stockmarketpredictiondsnd.herokuapp.com/go/
+# Deployed At:-
+https://stockmarketpredictiondsnd.herokuapp.com/
