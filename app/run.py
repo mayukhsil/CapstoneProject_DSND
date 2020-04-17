@@ -18,7 +18,7 @@ import datetime
 app=Flask(__name__)
 
 # load model
-model = joblib.load("/models/regressor.pkl")
+model = joblib.load("models/regressor.pkl")
 
 
 def technical_indicators(df):
