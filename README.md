@@ -39,7 +39,7 @@ The Project is divided in the following Sections:
 ### Installing
 Clone this GIT repository:
 ```
-git clone https://github.com/buchan123/Disaster-Response-Pipeline.git
+git clone https://github.com/mayukhsil/CapstoneProject_DSND.git
 ```
 <a name="executing"></a>
 ### Executing Program:
@@ -53,13 +53,13 @@ git clone https://github.com/buchan123/Disaster-Response-Pipeline.git
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-3. Go to http://0.0.0.0:3001/
+3. Go to http://0.0.0.0:5000/
 
 
 <a name="authors"></a>
 ## Authors
 
-* [Siddhant Sarkar](https://github.com/buchan123)
+* [Mayukh Sil](https://github.com/mayukhsil)
 
 <a name="license"></a>
 ## License
